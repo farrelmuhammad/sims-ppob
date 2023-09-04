@@ -3,8 +3,8 @@ import './App.css';
 
 function App() {
   return (
-    <h1 className="text-3xl font-bold">
-      Sorry, Website under development.<br></br> Try again later.
+    <h1 className="text-3xl font-bold underline">
+      Sorry under development
     </h1>
   );
 }
